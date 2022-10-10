@@ -1,4 +1,4 @@
-<table align="center">
+<table align="left">
 <?php
 $baris = 5;
 for ($y=1; $y <= $baris; $y++) {
